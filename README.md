@@ -16,3 +16,10 @@ $git init
 $git add .
 
 ```
+
+##tabel
+
+nama | usia | kota
+-|-|-
+andi|23|jakarta
+badu|22|bandung
