@@ -10,3 +10,9 @@ halo selamat sore
 
 catatan:
 >ini adalah orang botak dengan **kekuatan**
+
+```bash
+$git init
+$git add .
+
+```
