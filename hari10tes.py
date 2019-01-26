@@ -5,3 +5,5 @@ print('Tes 1 2 3 ' )
 
 print ('tes 3 4 5 ')
 print('tes 6 7 8')
+
+print('tes 7 8 9')
